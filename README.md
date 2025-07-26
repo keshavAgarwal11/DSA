@@ -26,6 +26,10 @@ DSA practice
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/keshavAgarwal11/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
