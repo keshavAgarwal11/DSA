@@ -18,6 +18,14 @@ DSA practice
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/keshavAgarwal11/DSA/tree/master/1078-remove-outermost-parentheses) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
