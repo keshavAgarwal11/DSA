@@ -14,3 +14,6 @@ DSA practice
 
 
 ## Color scheme Switcher using html,css and js
+
+
+<img width="1255" height="743" alt="image" src="https://github.com/user-attachments/assets/d1a2b95b-536b-42ba-bb0e-b8c124071a9d" />
