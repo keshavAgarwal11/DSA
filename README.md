@@ -1,4 +1,4 @@
-# DSA
+# DSA & PROJECT
 DSA practice
 
 <!---LeetCode Topics Start-->
