@@ -32,6 +32,7 @@ DSA practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavAgarwal11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keshavAgarwal11/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -72,6 +73,10 @@ DSA practice
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
