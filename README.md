@@ -30,6 +30,7 @@ DSA practice
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavAgarwal11/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavAgarwal11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +78,7 @@ DSA practice
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavAgarwal11/DSA/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->ce
