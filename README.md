@@ -33,6 +33,7 @@ DSA practice
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavAgarwal11/DSA/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavAgarwal11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
@@ -82,6 +83,7 @@ DSA practice
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavAgarwal11/DSA/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->ce
 
