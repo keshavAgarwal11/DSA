@@ -9,6 +9,7 @@ DSA practice
 | [0058-length-of-last-word](https://github.com/keshavAgarwal11/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/keshavAgarwal11/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/keshavAgarwal11/DSA/tree/master/0443-string-compression) |
+| [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/keshavAgarwal11/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/keshavAgarwal11/DSA/tree/master/3194-find-words-containing-character) |
@@ -92,6 +93,10 @@ DSA practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
