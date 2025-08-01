@@ -11,6 +11,7 @@ DSA practice
 | [0443-string-compression](https://github.com/keshavAgarwal11/DSA/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/keshavAgarwal11/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3194-find-words-containing-character](https://github.com/keshavAgarwal11/DSA/tree/master/3194-find-words-containing-character) |
 ## Color scheme Switcher using html,css and js
 |  |
 | ------- |
@@ -42,6 +43,7 @@ DSA practice
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keshavAgarwal11/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3194-find-words-containing-character](https://github.com/keshavAgarwal11/DSA/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
