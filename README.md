@@ -13,6 +13,7 @@ DSA practice
 | [1078-remove-outermost-parentheses](https://github.com/keshavAgarwal11/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/keshavAgarwal11/DSA/tree/master/3194-find-words-containing-character) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavAgarwal11/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Color scheme Switcher using html,css and js
 |  |
 | ------- |
@@ -83,6 +84,7 @@ DSA practice
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavAgarwal11/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ DSA practice
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavAgarwal11/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
