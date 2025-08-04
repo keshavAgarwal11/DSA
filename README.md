@@ -6,6 +6,7 @@ DSA practice
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/keshavAgarwal11/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/keshavAgarwal11/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/keshavAgarwal11/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keshavAgarwal11/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -37,6 +38,7 @@ DSA practice
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/keshavAgarwal11/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -107,6 +109,10 @@ DSA practice
 | ------- |
 | [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavAgarwal11/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/keshavAgarwal11/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
