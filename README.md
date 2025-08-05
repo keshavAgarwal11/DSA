@@ -10,6 +10,7 @@ DSA practice
 | [0058-length-of-last-word](https://github.com/keshavAgarwal11/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/keshavAgarwal11/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keshavAgarwal11/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/keshavAgarwal11/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavAgarwal11/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/keshavAgarwal11/DSA/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0541-reverse-string-ii) |
@@ -109,6 +110,7 @@ DSA practice
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/keshavAgarwal11/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavAgarwal11/DSA/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavAgarwal11/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
