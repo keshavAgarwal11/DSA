@@ -7,6 +7,7 @@ DSA practice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keshavAgarwal11/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/keshavAgarwal11/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/keshavAgarwal11/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/keshavAgarwal11/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keshavAgarwal11/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -45,6 +46,7 @@ DSA practice
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavAgarwal11/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/keshavAgarwal11/DSA/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavAgarwal11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +70,7 @@ DSA practice
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/keshavAgarwal11/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/keshavAgarwal11/DSA/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
@@ -110,6 +113,7 @@ DSA practice
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/keshavAgarwal11/DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/keshavAgarwal11/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavAgarwal11/DSA/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
