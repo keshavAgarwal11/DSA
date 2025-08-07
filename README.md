@@ -122,6 +122,10 @@ DSA practice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keshavAgarwal11/DSA/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
