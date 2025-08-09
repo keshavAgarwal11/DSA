@@ -65,6 +65,7 @@ DSA practice
 | [0088-merge-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keshavAgarwal11/DSA/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0541-reverse-string-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ DSA practice
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
