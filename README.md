@@ -65,6 +65,7 @@ DSA practice
 | [0088-merge-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/keshavAgarwal11/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/keshavAgarwal11/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0541-reverse-string-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -119,6 +120,7 @@ DSA practice
 | ------- |
 | [0049-group-anagrams](https://github.com/keshavAgarwal11/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/keshavAgarwal11/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/keshavAgarwal11/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavAgarwal11/DSA/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
@@ -131,6 +133,7 @@ DSA practice
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/keshavAgarwal11/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0908-middle-of-the-linked-list) |
