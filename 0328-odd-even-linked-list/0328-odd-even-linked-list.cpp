@@ -32,11 +32,6 @@ while(even != NULL && even-> next != NULL){
     even = even -> next;
 
 
-
-
-
-
-
 } odd -> next = evenhead;
 
 
