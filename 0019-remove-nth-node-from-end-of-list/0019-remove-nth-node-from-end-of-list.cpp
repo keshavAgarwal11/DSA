@@ -89,18 +89,10 @@ public:
       
 
         //   slow =slow -> next;
-          fast = fast -> next;
-            slow =slow -> next;   
-
-     }
-
-
-       
-
-
-
-
         
+            slow =slow -> next;   
+               fast = fast -> next;
+     }
 
 
      ListNode* deletenode =slow -> next;
