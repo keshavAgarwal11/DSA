@@ -14,61 +14,103 @@ public:
         
 
 
-    ListNode* temp = head;
-  int count = 0;
+//     ListNode* temp = head;
+//   int count = 0;
 
-    while(temp != NULL){   
+//     while(temp != NULL){   
 
- count++; 
- temp = temp -> next;
+//  count++; 
+//  temp = temp -> next;
     
 
-    }
+//     }
 
-     temp =head;
- if(count == n){
+//      temp =head;
+//  if(count == n){
            
         
-      temp = temp->next;
-       return temp;
+//       temp = temp->next;
+//        return temp;
 
 
- }
+//  }
 
 
 
 
-    int res = count - n;
+//     int res = count - n;
 
-    //  temp = head;
-    int vall = 0;
-     while(temp != NULL){
+//     //  temp = head;
+//     int vall = 0;
+//      while(temp != NULL){
 
 
-      vall++;
-       if(res ==vall){
+//       vall++;
+//        if(res ==vall){
                 
-                ListNode* deletenode = temp ->next;
-                temp -> next = temp -> next -> next;
-                delete(deletenode);
-                break;
+//                 ListNode* deletenode = temp ->next;
+//                 temp -> next = temp -> next -> next;
+//                 delete(deletenode);
+//                 break;
 
 
-       }
+//        }
 
 
-             temp = temp -> next;  
+//              temp = temp -> next;  
+
+//      }
+
+
+
+//          return head;
+
+
+   ListNode* fast = head;
+  
+
+    
+    for(int i=0; i<n;i++){
+    
+   fast  = fast -> next;
+     
+
+    } 
+
+    if(fast == NULL){
+
+        head = head -> next;
+        return head;
+    }  
+          
+
+    ListNode* slow = head;
+     while(fast ->next != NULL){
+      
+
+        //   slow =slow -> next;
+          fast = fast -> next;
+            slow =slow -> next;   
 
      }
 
 
-
-         return head;
-
- 
+       
 
 
 
+
+        
+
+
+     ListNode* deletenode =slow -> next;
+      slow -> next = slow -> next -> next;
+        delete(deletenode); 
+        
+        return head;
+  
 
     }
+
+    
 };
