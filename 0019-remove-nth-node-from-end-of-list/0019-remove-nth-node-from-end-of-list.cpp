@@ -68,33 +68,23 @@ public:
 
    ListNode* fast = head;
   
-
-    
     for(int i=0; i<n;i++){
     
    fast  = fast -> next;
-     
-
     } 
-
     if(fast == NULL){
-
         head = head -> next;
         return head;
     }  
-          
-
     ListNode* slow = head;
      while(fast ->next != NULL){
       
 
-        //   slow =slow -> next;
+        
         
             slow =slow -> next;   
                fast = fast -> next;
      }
-
-
      ListNode* deletenode =slow -> next;
       slow -> next = slow -> next -> next;
         delete(deletenode); 
