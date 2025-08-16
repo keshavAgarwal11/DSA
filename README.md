@@ -33,6 +33,7 @@ DSA practice
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/keshavAgarwal11/DSA/tree/master/0009-palindrome-number) |
 | [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
