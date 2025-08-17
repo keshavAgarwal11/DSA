@@ -14,6 +14,7 @@ DSA practice
 | [0205-isomorphic-strings](https://github.com/keshavAgarwal11/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavAgarwal11/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/keshavAgarwal11/DSA/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/keshavAgarwal11/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/keshavAgarwal11/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -83,6 +84,7 @@ DSA practice
 | [0049-group-anagrams](https://github.com/keshavAgarwal11/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/keshavAgarwal11/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/keshavAgarwal11/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -91,6 +93,7 @@ DSA practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/keshavAgarwal11/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -99,6 +102,7 @@ DSA practice
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/keshavAgarwal11/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -107,6 +111,7 @@ DSA practice
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/keshavAgarwal11/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/keshavAgarwal11/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavAgarwal11/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -128,6 +133,7 @@ DSA practice
 | [0142-linked-list-cycle-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/keshavAgarwal11/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavAgarwal11/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/keshavAgarwal11/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavAgarwal11/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
