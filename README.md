@@ -35,6 +35,7 @@ DSA practice
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/keshavAgarwal11/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/keshavAgarwal11/DSA/tree/master/0050-powx-n) |
 | [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -155,6 +156,7 @@ DSA practice
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/keshavAgarwal11/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->ce
