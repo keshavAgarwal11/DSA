@@ -1,13 +1,11 @@
 
 class MyStack {
-
     queue <int>q1;  
     queue <int>q2;  
 public:
     MyStack() {
         //  MyStack myStack = new Mystack();
     }
-    
     void push(int x) {
         //   q.push(x);
         //   int siz = q.size();
@@ -15,21 +13,12 @@ public:
         //   q.push(q.front());
         //   q.pop();
         // }
-
-    
       q2.push(x);
-
       while(!q1.empty()){
-
          q2.push(q1.front());
-
-         q1.pop();
-
-           
+         q1.pop();  
        }     
-
       swap(q1,q2);
-
     }                                                                            
     int pop() {
        int val = q1.front();
