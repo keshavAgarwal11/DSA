@@ -1,51 +1,48 @@
 
 class MyStack {
 
-    queue <int>q;
+    queue <int>q1;  
+    queue <int>q2;  
 public:
     MyStack() {
         //  MyStack myStack = new Mystack();
     }
     
     void push(int x) {
-        
-          q.push(x);
-          int siz = q.size();
+        //   q.push(x);
+        //   int siz = q.size();
+        // for(int i=1 ; i<siz ;i++){
+        //   q.push(q.front());
+        //   q.pop();
+        // }
 
-        for(int i=1 ; i<siz ;i++){
-
-
-          q.push(q.front());
-          q.pop();
-
-        }
-          
-
-    }                                                                          
     
-    int pop() {
-        
+      q2.push(x);
 
-       int val = q.front();
-        q.pop();
-        return val;
-     
+      while(!q1.empty()){
 
+         q2.push(q1.front());
 
+         q1.pop();
 
-    }
-    
-    int top() { 
-        
-        return q.front();
-    }
-    
-    bool empty() {
-           return q.empty();
            
+       }     
+
+      swap(q1,q2);
+
+    }                                                                            
+    int pop() {
+       int val = q1.front();
+        q1.pop();
+        return val;
+    }
+    int top() { 
+        return q1.front();
+    }
+    bool empty() {
+           return q1.empty();    
     } 
 };
-
 /**
  * Your MyStack object will be instantiated and called as such:
  * MyStack* obj = new MyStack();
