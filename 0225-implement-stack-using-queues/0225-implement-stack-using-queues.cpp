@@ -1,5 +1,4 @@
 
-  
 class MyStack {
 
     queue <int>q;
@@ -22,7 +21,7 @@ public:
         }
           
 
-    }
+    }                                                                          
     
     int pop() {
         
