@@ -36,6 +36,7 @@ DSA practice
 | [0225-implement-stack-using-queues](https://github.com/keshavAgarwal11/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keshavAgarwal11/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/keshavAgarwal11/DSA/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/keshavAgarwal11/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ DSA practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavAgarwal11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavAgarwal11/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/keshavAgarwal11/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
@@ -143,6 +145,7 @@ DSA practice
 | [0205-isomorphic-strings](https://github.com/keshavAgarwal11/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavAgarwal11/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/keshavAgarwal11/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/keshavAgarwal11/DSA/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/keshavAgarwal11/DSA/tree/master/0782-jewels-and-stones) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/keshavAgarwal11/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
@@ -178,6 +181,10 @@ DSA practice
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/keshavAgarwal11/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keshavAgarwal11/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/keshavAgarwal11/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
