@@ -31,6 +31,7 @@ DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keshavAgarwal11/DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keshavAgarwal11/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/keshavAgarwal11/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/keshavAgarwal11/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keshavAgarwal11/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -41,6 +42,7 @@ DSA practice
 | ------- |
 | [0009-palindrome-number](https://github.com/keshavAgarwal11/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/keshavAgarwal11/DSA/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keshavAgarwal11/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -60,6 +62,7 @@ DSA practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavAgarwal11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/keshavAgarwal11/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
