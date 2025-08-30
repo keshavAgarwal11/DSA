@@ -4,7 +4,7 @@ public:
         
           int n = temperatures.size();
       stack<int> st;
-      vector<int>ans(n,0);
+      vector<int>ans(n);
             for(int i= n-1; i>=0 ;i--){
 
         while(!st.empty() && temperatures[i] >= temperatures[st.top()]){
@@ -15,6 +15,10 @@ public:
 
         }
 
+             if(st.empty()){
+
+                ans[i] = 0;
+             }
 
         if(!st.empty()){
 
