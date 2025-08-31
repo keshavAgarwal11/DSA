@@ -73,6 +73,7 @@ DSA practice
 | [0739-daily-temperatures](https://github.com/keshavAgarwal11/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/keshavAgarwal11/DSA/tree/master/1036-rotting-oranges) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keshavAgarwal11/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3194-find-words-containing-character](https://github.com/keshavAgarwal11/DSA/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
@@ -191,6 +192,14 @@ DSA practice
 | [0496-next-greater-element-i](https://github.com/keshavAgarwal11/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keshavAgarwal11/DSA/tree/master/0739-daily-temperatures) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/keshavAgarwal11/DSA/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/keshavAgarwal11/DSA/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->ce
 
 <!---LeetCode Topics Start-->
