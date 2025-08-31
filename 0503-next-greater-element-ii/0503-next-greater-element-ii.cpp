@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        
 
           int n = nums.size();
         stack<int> st;
@@ -20,39 +19,10 @@ public:
            if(!st.empty()){
 
                 ans[i] = st.top();
-
-
            }
-
-
-
-
            }
-
               st.push(nums[i%n]);
-
-
          }
-
-
-
-
          return ans;
-    
-   
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 };
