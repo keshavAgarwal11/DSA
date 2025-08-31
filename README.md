@@ -37,6 +37,7 @@ DSA practice
 | [0232-implement-queue-using-stacks](https://github.com/keshavAgarwal11/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/keshavAgarwal11/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/keshavAgarwal11/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keshavAgarwal11/DSA/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/keshavAgarwal11/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Math
@@ -67,6 +68,7 @@ DSA practice
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavAgarwal11/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/keshavAgarwal11/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/keshavAgarwal11/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
@@ -187,6 +189,7 @@ DSA practice
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/keshavAgarwal11/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/keshavAgarwal11/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->ce
 
