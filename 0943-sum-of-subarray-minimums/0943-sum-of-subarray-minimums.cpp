@@ -45,11 +45,10 @@ public:
             int MOD = 1e9 + 7;
         int n = arr.size();
 
-                 long long total = 0;
+                 int total = 0;
          vector<int>nse = findnse(arr);
          vector<int>pse = findpse(arr);
         
-
           for(int i=0;i<n;i++){
 
              int left = i - pse[i];
@@ -62,7 +61,7 @@ public:
 
           }
 
-           return (int)total;
+           return total;
 
           
 
