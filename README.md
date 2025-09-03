@@ -46,6 +46,7 @@ DSA practice
 | ------- |
 | [0009-palindrome-number](https://github.com/keshavAgarwal11/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/keshavAgarwal11/DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/keshavAgarwal11/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavAgarwal11/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2032-largest-odd-number-in-string](https://github.com/keshavAgarwal11/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -140,6 +141,7 @@ DSA practice
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavAgarwal11/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/keshavAgarwal11/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0540-single-element-in-a-sorted-array) |
