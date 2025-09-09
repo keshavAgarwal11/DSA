@@ -21,9 +21,6 @@ public:
      
  }
 
-
-
-
    long long fun1(vector<int>& arr,int nob){
         
         long long totaltime = 0;
@@ -32,9 +29,9 @@ public:
       
       for(int i=0; i<n; i++){
           
-        //   totaltime += ceil(double(arr[i])/double(nob));
+          totaltime += ceil(double(arr[i])/double(nob));
            
-         totaltime += (arr[i] + nob - 1) / nob;
+        //  totaltime += (arr[i] + nob - 1) / nob;
 
       }
       
