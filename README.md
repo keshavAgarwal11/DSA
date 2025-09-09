@@ -74,6 +74,7 @@ DSA practice
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/keshavAgarwal11/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/keshavAgarwal11/DSA/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/keshavAgarwal11/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/keshavAgarwal11/DSA/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/keshavAgarwal11/DSA/tree/master/1036-rotting-oranges) |
@@ -146,6 +147,7 @@ DSA practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/keshavAgarwal11/DSA/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
