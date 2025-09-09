@@ -3,7 +3,7 @@ public:
 
 
 
- int maxi(vector<int> arr){
+ int maxi(vector<int>& arr){
      
       int n = arr.size();
        int maxi = arr[0];
@@ -24,7 +24,7 @@ public:
 
 
 
-   long long fun1(vector<int> arr,int nob){
+   long long fun1(vector<int>& arr,int nob){
         
         long long totaltime = 0;
        
