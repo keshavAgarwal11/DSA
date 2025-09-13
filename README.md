@@ -69,6 +69,7 @@ DSA practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshavAgarwal11/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/keshavAgarwal11/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/keshavAgarwal11/DSA/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/keshavAgarwal11/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -145,6 +146,7 @@ DSA practice
 | [0069-sqrtx](https://github.com/keshavAgarwal11/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavAgarwal11/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/keshavAgarwal11/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavAgarwal11/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/keshavAgarwal11/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/keshavAgarwal11/DSA/tree/master/0907-koko-eating-bananas) |
